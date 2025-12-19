@@ -1,306 +1,693 @@
 # vuzko-privacy-policy
-Privacy Policy - Vuzko
-Effective Date: December 2025
-Last Updated: December 2025
-
-English Version
-1. Introduction
-Vuzko ("Company," "we," "us," "our," or "App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application (the "App").
-Please read this Privacy Policy carefully. If you do not agree with our policies and practices, please do not use our App.
-2. Information We Collect
-2.1 Information You Provide Directly
-Phone Number
-
-Collected for account creation and authentication via Firebase Authentication
-Used to verify your identity and enable secure access to your account
-Never shared with third parties without your consent
-
-Profile Information
-
-User preferences (city selection, language preference)
-Favorite businesses and companies
-Community confirmations (ratings and reviews you submit)
-
-Business Information (if you're a business user)
-
-Company name, description, contact information
-Business hours, photos, and services offered
-Contact details for business tier management
-
-2.2 Information Collected Automatically
-Device Information
-
-Device type, operating system, and mobile device identifiers
-App version and crash logs
-General location information (city/region based on user selection, not GPS)
-
-Usage Information
-
-Search queries and filters you use
-Businesses you view or interact with
-Features you access
-Time and duration of your App usage
-
-Error and Performance Data
-
-Crash reports and error logs (via Firebase Crashlytics)
-Performance metrics to improve App stability
-
-Authentication Data
-
-One-Time Passwords (OTP) for phone verification
-Firebase authentication tokens
-
-3. How We Use Your Information
-We use collected information to:
-
-Create and manage your account - Phone number for authentication and account recovery
-Provide App functionality - Search businesses, manage favorites, submit confirmations
-Improve user experience - Understand how you use the App, optimize features
-Send notifications - Updates about favorite businesses, community confirmations (future feature)
-Troubleshoot and fix issues - Error logs to identify and resolve technical problems
-Ensure security - Detect fraud, prevent abuse, maintain account security
-Comply with legal obligations - Respond to legal requests, enforce terms
-
-We do NOT:
-
-Sell your personal data to third parties
-Share phone numbers without your consent
-Use data for targeted advertising or marketing without opt-in
-Share location data with third parties (location is user-provided, not tracked)
-
-4. Data Sharing and Disclosure
-4.1 Service Providers
-We share limited data with trusted third-party service providers who help us operate the App:
-ServiceData SharedPurposeFirebase (Google)Phone number, authentication tokens, device infoAuthentication, crash reporting, app analyticsFirebase CrashlyticsError logs, device info, app versionIdentifying and fixing technical issuesApple/GoogleApp store connection dataApp distribution and updates
-These providers are contractually obligated to maintain confidentiality and use data only as necessary to provide services.
-4.2 Business Listings
-
-Business information (name, description, contact info) is publicly visible in the App
-User confirmations (ratings/reviews) are anonymized - your name is not displayed
-Community confirmation counts are aggregated - individual user data is not shared
-
-4.3 Legal Compliance
-We may disclose information when required by law or to:
-
-Comply with legal process (subpoena, court order)
-Enforce our Terms of Service
-Protect safety and security
-Prevent fraud or criminal activity
-
-5. Data Retention
-
-Phone number and account data: Retained while your account is active; deleted upon account termination (unless required by law)
-Favorite lists and confirmations: Retained as long as your account is active
-Crash logs and error reports: Retained for 90 days then automatically deleted
-Authentication tokens: Temporarily retained during your session, then discarded
-
-You can request deletion of your account and associated data at any time by contacting us.
-6. Data Security
-We implement industry-standard security measures to protect your data:
-
-Firebase Security: Google-managed infrastructure with encryption in transit and at rest
-Phone Number Protection: Only accessible to authorized systems (Firebase Authentication)
-HTTPS/SSL: All data transmitted securely between your device and our servers
-Access Controls: Data access limited to essential personnel only
-
-However, no security system is 100% secure. We cannot guarantee absolute security of your data.
-7. Your Rights and Choices
-7.1 Access and Correction
-
-You can view and update your profile information within the App settings
-Request a copy of your data by contacting us
-
-7.2 Deletion
-
-Delete your account and associated data anytime in App settings
-Request manual deletion by contacting privacy@vuzko.app
-
-7.3 Opt-Out
-
-Disable notifications in your device settings or App preferences
-Opt-out of analytics (future feature) in settings
-Limit ad tracking in your device settings
-
-7.4 California (CCPA) and EU (GDPR) Rights
-If you're in California or the EU, you have additional rights:
-
-Right to know: What data we collect and how it's used
-Right to delete: Request deletion of personal data
-Right to opt-out: Decline certain data uses
-Right to data portability: Receive your data in machine-readable format
-
-Contact us to exercise these rights (see Contact Information below).
-8. Children's Privacy
-The App is not intended for users under 13 years old. We do not knowingly collect data from children under 13. If we learn we've collected data from a child under 13, we will delete it immediately. Parents concerned about their child's data should contact us.
-9. Third-Party Links
-The App may contain links to external websites or services (business websites, Google Maps, etc.). This Privacy Policy does not apply to third-party services. We are not responsible for their privacy practices. Please review their policies before providing information.
-10. International Data Transfers
-Your data may be processed and stored in the United States (where Firebase servers are located). If you're outside the US, you consent to your data being transferred to and processed in the US under this Privacy Policy.
-11. Changes to This Policy
-We may update this Privacy Policy periodically to reflect changes in our practices, technology, legal requirements, or other factors. We will notify you of material changes by:
-
-Updating the "Last Updated" date
-Posting the revised policy in the App
-Requesting your consent if changes are significant
-
-Your continued use of the App after updates constitutes acceptance of the new policy.
-12. Contact Us
-If you have questions about this Privacy Policy, your data, or wish to exercise your rights:
-Email: support@vuzko.com
-Mailing Address:
-Vuzko
-Phoenix, Arizona
-USA
-Response Time: We aim to respond to privacy requests within 30 days.
-
-Versión en Español
-1. Introducción
-Vuzko ("Empresa," "nosotros," "nos," "nuestro") está comprometido con proteger tu privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y salvaguardamos tu información cuando utilizas nuestra aplicación móvil ("Aplicación").
-Por favor, lee esta Política de Privacidad cuidadosamente. Si no estás de acuerdo con nuestras políticas y prácticas, no uses nuestra Aplicación.
-2. Información que Recopilamos
-2.1 Información que Proporcionas Directamente
-Número de Teléfono
-
-Recopilado para crear tu cuenta y autenticación a través de Firebase
-Usado para verificar tu identidad y acceso seguro a tu cuenta
-Nunca se comparte con terceros sin tu consentimiento
-
-Información de Perfil
-
-Preferencias de usuario (selección de ciudad, preferencia de idioma)
-Negocios y empresas favoritas
-Confirmaciones comunitarias (calificaciones y reseñas que envías)
-
-Información Empresarial (si eres usuario empresarial)
-
-Nombre de empresa, descripción, información de contacto
-Horarios comerciales, fotos y servicios ofrecidos
-Detalles de contacto para la gestión de planes empresariales
-
-2.2 Información Recopilada Automáticamente
-Información del Dispositivo
-
-Tipo de dispositivo, sistema operativo e identificadores de dispositivo
-Versión de aplicación y registros de fallos
-Información general de ubicación (ciudad/región basada en selección del usuario, no GPS)
-
-Información de Uso
-
-Búsquedas y filtros que usas
-Negocios que ves e interactúas
-Características que accedes
-Hora y duración de tu uso de la Aplicación
-
-Datos de Error y Rendimiento
-
-Reportes de fallos (a través de Firebase Crashlytics)
-Métricas de rendimiento para mejorar la estabilidad
-
-Datos de Autenticación
-
-Contraseñas de un solo uso (OTP) para verificación telefónica
-Tokens de autenticación de Firebase
-
-3. Cómo Usamos Tu Información
-Usamos la información recopilada para:
-
-Crear y gestionar tu cuenta - Número de teléfono para autenticación y recuperación de cuenta
-Proporcionar funcionalidad de la Aplicación - Buscar negocios, gestionar favoritos, enviar confirmaciones
-Mejorar la experiencia del usuario - Entender cómo usas la Aplicación, optimizar características
-Enviar notificaciones - Actualizaciones sobre negocios favoritos, confirmaciones comunitarias (función futura)
-Solucionar y corregir problemas - Registros de errores para identificar y resolver problemas técnicos
-Garantizar seguridad - Detectar fraude, prevenir abuso, mantener seguridad de cuenta
-Cumplir con obligaciones legales - Responder a solicitudes legales, hacer cumplir términos
-
-NO hacemos:
-
-Vender tus datos personales a terceros
-Compartir números de teléfono sin tu consentimiento
-Usar datos para publicidad o marketing dirigido sin consentimiento
-Compartir datos de ubicación con terceros (la ubicación es proporcionada por el usuario, no rastreada)
-
-4. Compartir Datos y Divulgación
-4.1 Proveedores de Servicios
-Compartimos datos limitados con proveedores de terceros confiables que nos ayudan a operar:
-ServicioDatos CompartidosPropósitoFirebase (Google)Número de teléfono, tokens de autenticación, info de dispositivoAutenticación, reportes de fallos, análisisFirebase CrashlyticsRegistros de errores, info de dispositivo, versión de appIdentificar y corregir problemas técnicosApple/GoogleDatos de conexión de tienda de aplicacionesDistribución de aplicaciones y actualizaciones
-Estos proveedores están obligados contractualmente a mantener confidencialidad y usar datos solo según sea necesario.
-4.2 Listados de Negocios
-
-La información comercial (nombre, descripción, contacto) es visible públicamente en la Aplicación
-Las confirmaciones de usuario (calificaciones/reseñas) están anonimizadas - tu nombre no se muestra
-Los recuentos de confirmaciones comunitarias están agregados - datos individuales no se comparten
-
-4.3 Cumplimiento Legal
-Podemos divulgar información cuando sea requerido por ley o para:
-
-Cumplir con proceso legal (citación, orden judicial)
-Hacer cumplir nuestros Términos de Servicio
-Proteger seguridad y protección
-Prevenir fraude o actividad delictiva
-
-5. Retención de Datos
-
-Número de teléfono y datos de cuenta: Retenidos mientras tu cuenta esté activa; eliminados al terminar cuenta (a menos que sea requerido por ley)
-Listas de favoritos y confirmaciones: Retenidas mientras tu cuenta esté activa
-Registros de fallos y reportes de errores: Retenidos por 90 días, luego eliminados automáticamente
-Tokens de autenticación: Retenidos temporalmente durante tu sesión, luego descartados
-
-Puedes solicitar la eliminación de tu cuenta y datos asociados en cualquier momento contactándonos.
-6. Seguridad de Datos
-Implementamos medidas de seguridad estándar de la industria para proteger tus datos:
-
-Seguridad de Firebase: Infraestructura gestionada por Google con encriptación en tránsito y en reposo
-Protección de Número de Teléfono: Solo accesible a sistemas autorizados (Autenticación Firebase)
-HTTPS/SSL: Todos los datos transmitidos de forma segura entre tu dispositivo y nuestros servidores
-Controles de Acceso: Acceso a datos limitado solo a personal esencial
-
-Sin embargo, ningún sistema de seguridad es 100% seguro. No podemos garantizar seguridad absoluta.
-7. Tus Derechos y Opciones
-7.1 Acceso y Corrección
-
-Puedes ver y actualizar tu información de perfil en la configuración de la Aplicación
-Solicita una copia de tus datos contactándonos
-
-7.2 Eliminación
-
-Elimina tu cuenta y datos asociados en cualquier momento en la configuración
-Solicita eliminación manual contactando privacy@vuzko.app
-
-7.3 Optar por no Participar
-
-Deshabilita notificaciones en la configuración de tu dispositivo
-Optar por no participar en análisis (función futura) en configuración
-Limita seguimiento de publicidad en la configuración de tu dispositivo
-
-7.4 Derechos de California (CCPA) y UE (GDPR)
-Si estás en California o la UE, tienes derechos adicionales:
-
-Derecho a saber: Qué datos recopilamos y cómo se usan
-Derecho a eliminar: Solicita eliminación de datos personales
-Derecho a optar por no participar: Rechaza ciertos usos de datos
-Derecho a portabilidad de datos: Recibe tus datos en formato legible por máquina
-
-Contáctanos para ejercer estos derechos (ver Información de Contacto abajo).
-8. Privacidad de Menores
-La Aplicación no está destinada a usuarios menores de 13 años. No recopilamos deliberadamente datos de menores de 13. Si descubrimos que hemos recopilado datos de un menor de 13, los eliminaremos inmediatamente. Los padres preocupados por los datos de su hijo deben contactarnos.
-9. Enlaces de Terceros
-La Aplicación puede contener enlaces a sitios web externos o servicios (sitios web comerciales, Google Maps, etc.). Esta Política de Privacidad no se aplica a servicios de terceros. No somos responsables de sus prácticas de privacidad. Por favor, revisa sus políticas antes de proporcionar información.
-10. Transferencias de Datos Internacionales
-Tus datos pueden ser procesados y almacenados en Estados Unidos (donde están ubicados los servidores de Firebase). Si estás fuera de EE.UU., consientes que tus datos se transfieran a y se procesen en EE.UU. bajo esta Política de Privacidad.
-11. Cambios en Esta Política
-Podemos actualizar esta Política de Privacidad periódicamente para reflejar cambios en nuestras prácticas, tecnología, requisitos legales u otros factores. Te notificaremos de cambios materiales por:
-
-Actualizar la fecha "Última Actualización"
-Publicar la política revisada en la Aplicación
-Solicitar tu consentimiento si los cambios son significativos
-
-Tu uso continuo de la Aplicación después de actualizaciones constituye aceptación de la nueva política.
-12. Contáctanos
-Si tienes preguntas sobre esta Política de Privacidad, tus datos, o deseas ejercer tus derechos:
-Email: support@vuzko.com
-Dirección de Correo:
-Vuzko
-Phoenix, Arizona
-USA
-Tiempo de Respuesta: Nos esforzamos por responder solicitudes de privacidad dentro de 30 días.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - Vuzko | Política de Privacidad</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f9f9f9;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        header {
+            text-align: center;
+            padding: 30px 0;
+            border-bottom: 2px solid #e0e0e0;
+        }
+
+        h1 {
+            color: #2c3e50;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+
+        .date-info {
+            color: #7f8c8d;
+            font-size: 0.9em;
+            margin-top: 10px;
+        }
+
+        /* Language Toggle */
+        .language-toggle {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin: 20px 0;
+        }
+
+        .lang-btn {
+            padding: 10px 30px;
+            border: 2px solid #3498db;
+            background-color: white;
+            color: #3498db;
+            cursor: pointer;
+            border-radius: 25px;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .lang-btn:hover {
+            background-color: #ecf0f1;
+        }
+
+        .lang-btn.active {
+            background-color: #3498db;
+            color: white;
+        }
+
+        /* Content Sections */
+        .content {
+            padding: 30px 0;
+        }
+
+        .language-section {
+            display: none;
+        }
+
+        .language-section.active {
+            display: block;
+        }
+
+        h2 {
+            color: #2c3e50;
+            margin-top: 30px;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+        }
+
+        h3 {
+            color: #34495e;
+            margin-top: 20px;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+
+        p, ul, li {
+            margin-bottom: 10px;
+        }
+
+        ul {
+            margin-left: 20px;
+        }
+
+        li {
+            margin-bottom: 8px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        th, td {
+            padding: 12px;
+            text-align: left;
+            border: 1px solid #e0e0e0;
+        }
+
+        th {
+            background-color: #3498db;
+            color: white;
+            font-weight: 600;
+        }
+
+        td {
+            background-color: white;
+        }
+
+        .intro {
+            background-color: #ecf0f1;
+            padding: 20px;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+
+        .contact-section {
+            background-color: #e8f5e9;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 30px;
+        }
+
+        strong {
+            color: #2c3e50;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 15px;
+            }
+
+            h1 {
+                font-size: 1.5em;
+            }
+
+            .lang-btn {
+                padding: 8px 20px;
+                font-size: 0.9em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Privacy Policy - Vuzko</h1>
+            <h1>Política de Privacidad</h1>
+            <div class="date-info">
+                <p><strong>Effective Date | Fecha de Vigencia:</strong> December 2025 | Diciembre 2025</p>
+                <p><strong>Last Updated | Última Actualización:</strong> December 2025 | Diciembre 2025</p>
+            </div>
+        </header>
+
+        <!-- Language Toggle Buttons -->
+        <div class="language-toggle">
+            <button class="lang-btn active" onclick="switchLanguage('english')">English</button>
+            <button class="lang-btn" onclick="switchLanguage('spanish')">Español</button>
+        </div>
+
+        <!-- ENGLISH VERSION -->
+        <div id="english" class="language-section active">
+            <div class="content">
+                <div class="intro">
+                    <h2>Introduction</h2>
+                    <p>Vuzko ("Company," "we," "us," "our," or "App") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Vuzko mobile application (the "App").</p>
+                    <p><strong>If you do not agree with this Privacy Policy, please do not use the App.</strong></p>
+                </div>
+
+                <h2>1. Information We Collect</h2>
+                
+                <h3>1.1 Information You Provide Directly</h3>
+                
+                <p><strong>Phone Number</strong></p>
+                <ul>
+                    <li>Collected for account creation and authentication via Firebase Authentication</li>
+                    <li>Used to verify your identity and secure access to your account</li>
+                    <li>Not shared with third parties without your consent</li>
+                </ul>
+
+                <p><strong>Profile Information</strong></p>
+                <ul>
+                    <li>User preferences (city selection, language preference)</li>
+                    <li>Favorite businesses and saved listings</li>
+                    <li>Community confirmations and feedback you submit</li>
+                </ul>
+
+                <p><strong>Business Information (for business users)</strong></p>
+                <ul>
+                    <li>Company name, description, contact information</li>
+                    <li>Business hours, photos, and services offered</li>
+                </ul>
+
+                <h3>1.2 Information Collected Automatically</h3>
+                
+                <p><strong>Device Information</strong></p>
+                <ul>
+                    <li>Device type and operating system</li>
+                    <li>App version</li>
+                    <li>Crash logs and diagnostic data</li>
+                    <li>General location based on user-selected city (no GPS tracking)</li>
+                </ul>
+
+                <p><strong>Usage & Analytics Information</strong></p>
+                <p>We collect limited usage data to understand how users interact with the App, including:</p>
+                <ul>
+                    <li>Screens viewed and features used</li>
+                    <li>Search queries and applied filters</li>
+                    <li>Businesses viewed or interacted with</li>
+                    <li>Session duration and frequency</li>
+                </ul>
+
+                <p>This data is collected using Firebase Analytics and is used only to:</p>
+                <ul>
+                    <li>Improve app performance and stability</li>
+                    <li>Enhance usability and feature design</li>
+                </ul>
+
+                <p><strong>We do not use analytics data for advertising, profiling, or cross-app tracking.</strong></p>
+
+                <p><strong>Error & Performance Data</strong></p>
+                <ul>
+                    <li>Crash reports and error logs collected via Firebase Crashlytics</li>
+                    <li>Used solely to identify, diagnose, and fix technical issues</li>
+                </ul>
+
+                <p><strong>Authentication Data</strong></p>
+                <ul>
+                    <li>One-Time Passwords (OTP) for phone verification</li>
+                    <li>Firebase authentication tokens (temporary)</li>
+                </ul>
+
+                <h2>2. How We Use Your Information</h2>
+                
+                <p>We use your information to:</p>
+                <ul>
+                    <li>Create and manage your account</li>
+                    <li>Authenticate users securely</li>
+                    <li>Provide core App functionality</li>
+                    <li>Manage favorites and community confirmations</li>
+                    <li>Improve App performance and reliability</li>
+                    <li>Troubleshoot errors and prevent abuse</li>
+                    <li>Maintain platform security</li>
+                    <li>Comply with legal obligations</li>
+                </ul>
+
+                <p><strong>We do NOT:</strong></p>
+                <ul>
+                    <li>Sell your personal data</li>
+                    <li>Share phone numbers without consent</li>
+                    <li>Use data for targeted advertising</li>
+                    <li>Track users across apps or websites</li>
+                    <li>Share precise location data</li>
+                </ul>
+
+                <h2>3. App Tracking & Advertising</h2>
+                
+                <h3>App Tracking Transparency</h3>
+                <p>Vuzko does not track users across apps or websites owned by other companies.</p>
+                
+                <p><strong>We do not:</strong></p>
+                <ul>
+                    <li>Use advertising identifiers</li>
+                    <li>Participate in cross-app tracking</li>
+                    <li>Share data with data brokers</li>
+                    <li>Serve targeted or behavioral ads</li>
+                </ul>
+
+                <p>All analytics are used strictly for internal product improvement.</p>
+
+                <h2>4. Data Sharing & Disclosure</h2>
+                
+                <h3>4.1 Service Providers</h3>
+                <p>We share limited data with trusted service providers:</p>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Service</th>
+                            <th>Data Shared</th>
+                            <th>Purpose</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Firebase (Google)</td>
+                            <td>Phone number, authentication tokens, device info, usage analytics</td>
+                            <td>Authentication, analytics, crash reporting</td>
+                        </tr>
+                        <tr>
+                            <td>Firebase Crashlytics</td>
+                            <td>Error logs, device info, app version</td>
+                            <td>App stability and bug fixing</td>
+                        </tr>
+                        <tr>
+                            <td>Apple / Google</td>
+                            <td>App store connection data</td>
+                            <td>App distribution and updates</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>These providers are contractually required to safeguard your data.</p>
+
+                <h3>4.2 Business Listings</h3>
+                <ul>
+                    <li>Business profiles are publicly visible</li>
+                    <li>Community confirmations are anonymized and aggregated</li>
+                    <li>Your name and personal information are never shown publicly when you submit confirmations</li>
+                    <li>Confirmation counts reflect total community validation without revealing individual contributors</li>
+                </ul>
+
+                <h3>4.3 Legal Compliance</h3>
+                <p>We may disclose information if required to:</p>
+                <ul>
+                    <li>Comply with legal obligations</li>
+                    <li>Enforce Terms of Service</li>
+                    <li>Prevent fraud or security threats</li>
+                    <li>Protect user safety</li>
+                </ul>
+
+                <h2>5. Data Retention</h2>
+                <ul>
+                    <li><strong>Account data:</strong> Retained while your account is active</li>
+                    <li><strong>Favorites & confirmations:</strong> Retained while account is active</li>
+                    <li><strong>Crash logs:</strong> Retained for up to 90 days</li>
+                    <li><strong>Authentication tokens:</strong> Temporary and session-based</li>
+                </ul>
+                <p>You may request account deletion at any time.</p>
+
+                <h2>6. Data Security</h2>
+                <p>We use industry-standard safeguards including:</p>
+                <ul>
+                    <li>Firebase-managed infrastructure</li>
+                    <li>Encryption in transit and at rest</li>
+                    <li>HTTPS / SSL communication</li>
+                    <li>Restricted internal access</li>
+                </ul>
+                <p>No system is 100% secure, but we actively protect your data.</p>
+
+                <h2>7. Your Rights & Choices</h2>
+                
+                <h3>7.1 Access & Correction</h3>
+                <ul>
+                    <li>Update your profile within the App</li>
+                    <li>Request a copy of your data by contacting support@vuzko.com</li>
+                </ul>
+
+                <h3>7.2 Account Deletion</h3>
+                <ul>
+                    <li>Contact support@vuzko.com to request account deletion</li>
+                    <li>We will process deletion requests within 30 days</li>
+                    <li>All personal data will be permanently removed from our systems</li>
+                </ul>
+
+                <h3>7.3 Notification Preferences</h3>
+                <ul>
+                    <li>Disable notifications in your device settings</li>
+                    <li>Manage in-app notification preferences</li>
+                </ul>
+
+                <h3>7.4 California (CCPA) & EU (GDPR) Rights</h3>
+                <p>You may request:</p>
+                <ul>
+                    <li>Access to your data</li>
+                    <li>Deletion of personal data</li>
+                    <li>Data portability</li>
+                    <li>Limitation of certain processing</li>
+                </ul>
+
+                <h2>8. Children's Privacy</h2>
+                <p>Vuzko is not intended for users under 13. We do not knowingly collect data from children under 13. If discovered, such data will be deleted immediately.</p>
+
+                <h2>9. Third-Party Links</h2>
+                <p>The App may link to external services (business websites, maps). We are not responsible for third-party privacy practices.</p>
+
+                <h2>10. International Data Transfers</h2>
+                <p>Data may be processed and stored in the United States. By using the App, you consent to this transfer.</p>
+
+                <h2>11. Changes to This Policy</h2>
+                <p>We may update this policy periodically. Material changes will be communicated via:</p>
+                <ul>
+                    <li>Updated "Last Updated" date</li>
+                    <li>In-app notices when required</li>
+                </ul>
+
+                <div class="contact-section">
+                    <h2>12. Contact Us</h2>
+                    <p><strong>Email:</strong> support@vuzko.com</p>
+                    <p><strong>Mailing Address:</strong><br>
+                    Vuzko<br>
+                    Phoenix, Arizona, USA</p>
+                    <p>We aim to respond within 30 days.</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- SPANISH VERSION -->
+        <div id="spanish" class="language-section">
+            <div class="content">
+                <div class="intro">
+                    <h2>Introducción</h2>
+                    <p>Vuzko ("Compañía," "nosotros," "nuestro," o "Aplicación") está comprometido con la protección de su privacidad. Esta Política de Privacidad explica cómo recopilamos, usamos, divulgamos y protegemos su información cuando utiliza la aplicación móvil Vuzko (la "Aplicación").</p>
+                    <p><strong>Si no está de acuerdo con esta Política de Privacidad, por favor no utilice la Aplicación.</strong></p>
+                </div>
+
+                <h2>1. Información que Recopilamos</h2>
+                
+                <h3>1.1 Información que Usted Proporciona Directamente</h3>
+                
+                <p><strong>Número de Teléfono</strong></p>
+                <ul>
+                    <li>Recopilado para la creación de cuenta y autenticación a través de Firebase Authentication</li>
+                    <li>Utilizado para verificar su identidad y asegurar el acceso a su cuenta</li>
+                    <li>No se comparte con terceros sin su consentimiento</li>
+                </ul>
+
+                <p><strong>Información de Perfil</strong></p>
+                <ul>
+                    <li>Preferencias del usuario (selección de ciudad, preferencia de idioma)</li>
+                    <li>Negocios favoritos y listados guardados</li>
+                    <li>Confirmaciones comunitarias y comentarios que usted envía</li>
+                </ul>
+
+                <p><strong>Información del Negocio (para usuarios de negocios)</strong></p>
+                <ul>
+                    <li>Nombre de la empresa, descripción, información de contacto</li>
+                    <li>Horario de atención, fotos y servicios ofrecidos</li>
+                </ul>
+
+                <h3>1.2 Información Recopilada Automáticamente</h3>
+                
+                <p><strong>Información del Dispositivo</strong></p>
+                <ul>
+                    <li>Tipo de dispositivo y sistema operativo</li>
+                    <li>Versión de la aplicación</li>
+                    <li>Registros de fallos y datos de diagnóstico</li>
+                    <li>Ubicación general basada en la ciudad seleccionada por el usuario (sin rastreo por GPS)</li>
+                </ul>
+
+                <p><strong>Información de Uso y Análisis</strong></p>
+                <p>Recopilamos datos limitados de uso para entender cómo los usuarios interactúan con la Aplicación, incluyendo:</p>
+                <ul>
+                    <li>Pantallas vistas y funciones utilizadas</li>
+                    <li>Búsquedas realizadas y filtros aplicados</li>
+                    <li>Negocios vistos o con los que interactuó</li>
+                    <li>Duración y frecuencia de sesiones</li>
+                </ul>
+
+                <p>Estos datos se recopilan usando Firebase Analytics y se utilizan únicamente para:</p>
+                <ul>
+                    <li>Mejorar el rendimiento y estabilidad de la aplicación</li>
+                    <li>Mejorar la usabilidad y diseño de funciones</li>
+                </ul>
+
+                <p><strong>No utilizamos datos de análisis para publicidad, perfiles de usuario o rastreo entre aplicaciones.</strong></p>
+
+                <p><strong>Datos de Errores y Rendimiento</strong></p>
+                <ul>
+                    <li>Informes de fallos y registros de errores recopilados a través de Firebase Crashlytics</li>
+                    <li>Utilizados únicamente para identificar, diagnosticar y corregir problemas técnicos</li>
+                </ul>
+
+                <p><strong>Datos de Autenticación</strong></p>
+                <ul>
+                    <li>Contraseñas de Un Solo Uso (OTP) para verificación telefónica</li>
+                    <li>Tokens de autenticación de Firebase (temporales)</li>
+                </ul>
+
+                <h2>2. Cómo Utilizamos Su Información</h2>
+                
+                <p>Utilizamos su información para:</p>
+                <ul>
+                    <li>Crear y administrar su cuenta</li>
+                    <li>Autenticar usuarios de manera segura</li>
+                    <li>Proporcionar la funcionalidad principal de la Aplicación</li>
+                    <li>Administrar favoritos y confirmaciones comunitarias</li>
+                    <li>Mejorar el rendimiento y confiabilidad de la Aplicación</li>
+                    <li>Solucionar errores y prevenir abusos</li>
+                    <li>Mantener la seguridad de la plataforma</li>
+                    <li>Cumplir con obligaciones legales</li>
+                </ul>
+
+                <p><strong>NO:</strong></p>
+                <ul>
+                    <li>Vendemos sus datos personales</li>
+                    <li>Compartimos números de teléfono sin consentimiento</li>
+                    <li>Utilizamos datos para publicidad dirigida</li>
+                    <li>Rastreamos usuarios entre aplicaciones o sitios web</li>
+                    <li>Compartimos datos de ubicación precisa</li>
+                </ul>
+
+                <h2>3. Rastreo de Aplicaciones y Publicidad</h2>
+                
+                <h3>Transparencia en el Rastreo de Aplicaciones</h3>
+                <p>Vuzko no rastrea a los usuarios entre aplicaciones o sitios web propiedad de otras compañías.</p>
+                
+                <p><strong>No:</strong></p>
+                <ul>
+                    <li>Utilizamos identificadores de publicidad</li>
+                    <li>Participamos en rastreo entre aplicaciones</li>
+                    <li>Compartimos datos con intermediarios de datos</li>
+                    <li>Servimos anuncios dirigidos o basados en comportamiento</li>
+                </ul>
+
+                <p>Todos los análisis se utilizan estrictamente para mejoras internas del producto.</p>
+
+                <h2>4. Compartir y Divulgación de Datos</h2>
+                
+                <h3>4.1 Proveedores de Servicios</h3>
+                <p>Compartimos datos limitados con proveedores de servicios confiables:</p>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Servicio</th>
+                            <th>Datos Compartidos</th>
+                            <th>Propósito</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Firebase (Google)</td>
+                            <td>Número de teléfono, tokens de autenticación, información del dispositivo, análisis de uso</td>
+                            <td>Autenticación, análisis, reporte de fallos</td>
+                        </tr>
+                        <tr>
+                            <td>Firebase Crashlytics</td>
+                            <td>Registros de errores, información del dispositivo, versión de la aplicación</td>
+                            <td>Estabilidad de la aplicación y corrección de errores</td>
+                        </tr>
+                        <tr>
+                            <td>Apple / Google</td>
+                            <td>Datos de conexión a la tienda de aplicaciones</td>
+                            <td>Distribución y actualizaciones de la aplicación</td>
+                        </tr>
+                    </tbody>
+                </table>
+
+                <p>Estos proveedores están contractualmente obligados a proteger sus datos.</p>
+
+                <h3>4.2 Listados de Negocios</h3>
+                <ul>
+                    <li>Los perfiles de negocios son visibles públicamente</li>
+                    <li>Las confirmaciones comunitarias son anónimas y agregadas</li>
+                    <li>Su nombre e información personal nunca se muestran públicamente cuando envía confirmaciones</li>
+                    <li>Los conteos de confirmaciones reflejan la validación total de la comunidad sin revelar contribuyentes individuales</li>
+                </ul>
+
+                <h3>4.3 Cumplimiento Legal</h3>
+                <p>Podemos divulgar información si es requerido para:</p>
+                <ul>
+                    <li>Cumplir con obligaciones legales</li>
+                    <li>Hacer cumplir los Términos de Servicio</li>
+                    <li>Prevenir fraude o amenazas de seguridad</li>
+                    <li>Proteger la seguridad del usuario</li>
+                </ul>
+
+                <h2>5. Retención de Datos</h2>
+                <ul>
+                    <li><strong>Datos de cuenta:</strong> Retenidos mientras su cuenta esté activa</li>
+                    <li><strong>Favoritos y confirmaciones:</strong> Retenidos mientras su cuenta esté activa</li>
+                    <li><strong>Registros de fallos:</strong> Retenidos hasta por 90 días</li>
+                    <li><strong>Tokens de autenticación:</strong> Temporales y basados en sesión</li>
+                </ul>
+                <p>Puede solicitar la eliminación de su cuenta en cualquier momento.</p>
+
+                <h2>6. Seguridad de Datos</h2>
+                <p>Utilizamos medidas de seguridad estándar de la industria incluyendo:</p>
+                <ul>
+                    <li>Infraestructura administrada por Firebase</li>
+                    <li>Encriptación en tránsito y en reposo</li>
+                    <li>Comunicación HTTPS / SSL</li>
+                    <li>Acceso interno restringido</li>
+                </ul>
+                <p>Ningún sistema es 100% seguro, pero protegemos activamente sus datos.</p>
+
+                <h2>7. Sus Derechos y Opciones</h2>
+                
+                <h3>7.1 Acceso y Corrección</h3>
+                <ul>
+                    <li>Actualice su perfil dentro de la Aplicación</li>
+                    <li>Solicite una copia de sus datos contactando a support@vuzko.com</li>
+                </ul>
+
+                <h3>7.2 Eliminación de Cuenta</h3>
+                <ul>
+                    <li>Contacte a support@vuzko.com para solicitar la eliminación de su cuenta</li>
+                    <li>Procesaremos las solicitudes de eliminación dentro de 30 días</li>
+                    <li>Todos los datos personales serán eliminados permanentemente de nuestros sistemas</li>
+                </ul>
+
+                <h3>7.3 Preferencias de Notificaciones</h3>
+                <ul>
+                    <li>Desactive las notificaciones en la configuración de su dispositivo</li>
+                    <li>Administre las preferencias de notificaciones dentro de la aplicación</li>
+                </ul>
+
+                <h3>7.4 Derechos de California (CCPA) y UE (GDPR)</h3>
+                <p>Puede solicitar:</p>
+                <ul>
+                    <li>Acceso a sus datos</li>
+                    <li>Eliminación de datos personales</li>
+                    <li>Portabilidad de datos</li>
+                    <li>Limitación de cierto procesamiento</li>
+                </ul>
+
+                <h2>8. Privacidad de Menores</h2>
+                <p>Vuzko no está destinado para usuarios menores de 13 años. No recopilamos conscientemente datos de niños menores de 13 años. Si se descubre, dichos datos serán eliminados inmediatamente.</p>
+
+                <h2>9. Enlaces de Terceros</h2>
+                <p>La Aplicación puede enlazar a servicios externos (sitios web de negocios, mapas). No somos responsables de las prácticas de privacidad de terceros.</p>
+
+                <h2>10. Transferencias Internacionales de Datos</h2>
+                <p>Los datos pueden ser procesados y almacenados en Estados Unidos. Al usar la Aplicación, usted consiente esta transferencia.</p>
+
+                <h2>11. Cambios a Esta Política</h2>
+                <p>Podemos actualizar esta política periódicamente. Los cambios importantes se comunicarán a través de:</p>
+                <ul>
+                    <li>Fecha actualizada de "Última Actualización"</li>
+                    <li>Avisos dentro de la aplicación cuando sea requerido</li>
+                </ul>
+
+                <div class="contact-section">
+                    <h2>12. Contáctenos</h2>
+                    <p><strong>Correo Electrónico:</strong> support@vuzko.com</p>
+                    <p><strong>Dirección Postal:</strong><br>
+                    Vuzko<br>
+                    Phoenix, Arizona, USA</p>
+                    <p>Nuestro objetivo es responder dentro de 30 días.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function switchLanguage(lang) {
+            // Hide all language sections
+            document.querySelectorAll('.language-section').forEach(section => {
+                section.classList.remove('active');
+            });
+            
+            // Remove active class from all buttons
+            document.querySelectorAll('.lang-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            // Show selected language section
+            document.getElementById(lang).classList.add('active');
+            
+            // Activate the clicked button
+            event.target.classList.add('active');
+            
+            // Update page language attribute for accessibility
+            document.documentElement.lang = lang === 'english' ? 'en' : 'es';
+            
+            // Scroll to top
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    </script>
+</body>
+</html>
